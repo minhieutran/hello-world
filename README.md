@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+Hi Humans!
+
+I am Minh Hieu Tran. I am a beginer.I like C++, C# and Javascript.
+I want to become a developer for IoT. 
+
